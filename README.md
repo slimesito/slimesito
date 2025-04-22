@@ -15,7 +15,7 @@ leverage my technical skills to drive innovative solutions and contribute to bus
 
 ## Contact me
 
-![https://www.linkedin.com/in/william-villegas-ab3b94215/](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/50px-LinkedIn_icon.svg.png)
+![linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/15px-LinkedIn_icon.svg.png) [LinkedIn](https://www.linkedin.com/in/william-villegas-ab3b94215/)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slimesito/slimesito)
 
