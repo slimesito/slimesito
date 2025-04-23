@@ -26,34 +26,33 @@ Currently seeking a challenging full-stack role to contribute to impactful proje
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-00BFFF?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📜 Certifications  
 
-### **Backend & DevOps**  
+#### **Backend & DevOps**  
 [![Laravel API](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2185-laravel-api/diploma/detalle/)  
 [![Docker Avanzado](https://img.shields.io/badge/Docker_Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11322-docker-avanzado/diploma/detalle/)  
 [![PHP OOP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2034-php-poo/diploma/detalle/)  
 
-### **Databases**  
+#### **Databases**  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://platzi.com/p/williamonfroy/curso/1480-postgresql/diploma/detalle/)  
 [![MySQL/MariaDB](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://platzi.com/p/williamonfroy/curso/4203-mysql-mariadb/diploma/detalle/)  
 
-### **Frontend & Tools**  
+#### **Frontend & Tools**  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://platzi.com/p/williamonfroy/learning-path/22983-javascript-fundamentos/diploma/detalle/)  
 [![Git/GitHub](https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11059-gitgithub/diploma/detalle/)  
 
-### **Testing & Performance**  
+#### **Testing & Performance**  
 [![Laravel TDD](https://img.shields.io/badge/Laravel_TDD-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2187-laravel-tdd/diploma/detalle/)  
 
-### **English Proficiency**  
+#### **English Proficiency**  
 [![EFSET C1 Advanced](https://img.shields.io/badge/EFSET_C1_English-009688?style=for-the-badge&logo=duolingo&logoColor=white)](https://cert.efset.org/yiK746)  
 
 ## 📬 Contact Me
 
-### **📩 Email:** [williamonfroy@gmail.com](mailto:williamonfroy@gmail.com)  
-### **📱 Phone:** [+58 (424) 275-2723](tel:+584242752723)  
-### **💼 LinkedIn:** [William Villegas](https://www.linkedin.com/in/william-villegas-ab3b94215/) 
+#### **📩 Email:** [williamonfroy@gmail.com](mailto:williamonfroy@gmail.com)  
+#### **📱 Phone:** [+58 (424) 275-2723](tel:+584242752723)  
+#### **💼 LinkedIn:** [William Villegas](https://www.linkedin.com/in/william-villegas-ab3b94215/) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-villegas-ab3b94215/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamonfroy@gmail.com)
