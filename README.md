@@ -51,11 +51,9 @@ Currently seeking a challenging full-stack role to contribute to impactful proje
 
 ## 📬 Contact Me
 
-¡Let's connect! I'm open to collaborations and new opportunities.  
-
-**📩 Email:** [williamonfroy@gmail.com](mailto:williamonfroy@gmail.com)  
-**📱 Phone:** [+58 (424) 275-2723](tel:+584242752723)  
-**💼 LinkedIn:** [William Villegas](https://www.linkedin.com/in/william-villegas-ab3b94215/) 
+#### **📩 Email:** [williamonfroy@gmail.com](mailto:williamonfroy@gmail.com)  
+#### **📱 Phone:** [+58 (424) 275-2723](tel:+584242752723)  
+#### **💼 LinkedIn:** [William Villegas](https://www.linkedin.com/in/william-villegas-ab3b94215/) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-villegas-ab3b94215/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamonfroy@gmail.com)
