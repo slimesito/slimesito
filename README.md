@@ -30,7 +30,7 @@ Currently seeking a challenging full-stack role to contribute to impactful proje
 
 ## 📜 Certifications  
 
-#### **Backend & DevOps**  
+### **Backend & DevOps**  
 [![Laravel API](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2185-laravel-api/diploma/detalle/)  
 [![Docker Avanzado](https://img.shields.io/badge/Docker_Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11322-docker-avanzado/diploma/detalle/)  
 [![PHP OOP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2034-php-poo/diploma/detalle/)  
