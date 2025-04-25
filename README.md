@@ -1,10 +1,15 @@
 ## 🧔🏽 About me
 
-I am a **Full Stack Developer** with **5+ years of experience** building scalable solutions, specializing in **Laravel, Docker, and RESTful APIs**. My expertise spans from backend architecture to dynamic frontend interfaces, always prioritizing clean code and efficient workflows.  
+I am a **Full Stack Developer** with **5+ years of experience** building scalable solutions, specializing in:
 
-With **advanced English (C1)** and a passion for problem-solving, I thrive in dynamic environments where I can leverage my skills to **drive innovation** and deliver measurable results.  
+▸ **Backend**: Laravel & RESTful API design  
+▸ **Frontend**: React.js with Tailwind CSS  
+▸ **Database**: Oracle & PostgreSQL optimization  
+▸ **DevOps**: Dockerized environments & CI/CD pipelines  
 
-Currently seeking a challenging full-stack role to contribute to impactful projects.  
+I architect **high-performance systems** and craft **intuitive interfaces**, balancing technical excellence with user-centric design. With **advanced English (C1)** and agile expertise, I thrive in cross-functional teams to **solve complex problems** and deliver measurable impact.
+
+🔍 Currently seeking senior full-stack roles to leverage my dual expertise in **Laravel ecosystems** and **modern React development**.
 
 ## 🔧 Areas of Expertise  
 
