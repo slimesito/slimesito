@@ -6,7 +6,7 @@ With **advanced English (C1)** and a passion for problem-solving, I thrive in dy
 
 Currently seeking a challenging full-stack role to contribute to impactful projects.  
 
-## 🔧 Areas of Expertises  
+## 🔧 Areas of Expertise  
 
 ### **Backend & Frameworks:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
