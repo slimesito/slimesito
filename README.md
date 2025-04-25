@@ -58,5 +58,5 @@ Currently seeking a challenging full-stack role to contribute to impactful proje
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamonfroy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+584242752723)  
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slimesito/slimesito)
+![GitHub commits activity](https://img.shields.io/github/commit-activity/y/slimesito/slimesito)
 
