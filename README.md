@@ -1,13 +1,8 @@
 ## 🧔🏽 About me
 
-I am a **Full Stack Developer** with **5+ years of experience** building scalable solutions, specializing in:
+## 🧔🏽 About Me
 
-▸ **Backend**: Laravel & RESTful API design  
-▸ **Frontend**: React.js with Tailwind CSS  
-▸ **Database**: Oracle & PostgreSQL optimization  
-▸ **DevOps**: Dockerized environments & CI/CD pipelines  
-
-I architect **high-performance systems** and craft **intuitive interfaces**, balancing technical excellence with user-centric design. With **advanced English (C1)** and agile expertise, I thrive in cross-functional teams to **solve complex problems** and deliver measurable impact.
+**Full Stack Developer** with 5+ years of experience building end-to-end solutions using Laravel (RESTful APIs), React.js with Tailwind CSS, and Oracle/PostgreSQL databases. I specialize in creating scalable architectures with Docker, implementing efficient workflows with Git/GitHub, and delivering clean, maintainable code. With advanced English (C1) and agile experience, I excel at transforming complex requirements into high-performance applications.
 
 🔍 Currently seeking senior full-stack roles to leverage my dual expertise in **Laravel ecosystems** and **modern React development**.
 
