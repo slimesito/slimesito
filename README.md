@@ -6,7 +6,7 @@ With **advanced English (C1)** and a passion for problem-solving, I thrive in dy
 
 Currently seeking a challenging full-stack role to contribute to impactful projects.  
 
-## 🔧 Areas of Expertise  
+## 🔧 Areas of Expertises  
 
 ### **Backend & Frameworks:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -58,5 +58,4 @@ Currently seeking a challenging full-stack role to contribute to impactful proje
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamonfroy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+584242752723)  
 
-![GitHub commits activity](https://img.shields.io/github/commit-activity/y/slimesito/slimesito)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slimesito/slimesito)
