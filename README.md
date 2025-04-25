@@ -1,5 +1,3 @@
-## 🧔🏽 About me
-
 ## 🧔🏽 About Me
 
 I am a **Full Stack Developer** with 5+ years of experience building end-to-end solutions using Laravel (RESTful APIs), React.js with Tailwind CSS, and Oracle/PostgreSQL databases. I specialize in creating scalable architectures with Docker, implementing efficient workflows with Git/GitHub, and delivering clean, maintainable code. With advanced English (C1) and agile experience, I excel at transforming complex requirements into high-performance applications.
