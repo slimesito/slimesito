@@ -1,15 +1,13 @@
 ## 🧔🏽 About Me
 
-I am a **Full Stack Developer** with 5+ years of experience building end-to-end solutions using Node.js, Laravel (RESTful APIs), React.js with Tailwind CSS, and Oracle/PostgreSQL databases. I specialize in creating scalable architectures with Docker, implementing efficient workflows with Git/GitHub, and delivering clean, maintainable code. With advanced English (C1) and agile experience, I excel at transforming complex requirements into high-performance applications.
-
-
-🔍 Currently seeking senior full-stack roles to leverage my dual expertise in **Laravel ecosystems** and **modern React development**.
+I am a **Full Stack Developer** with 5+ years of experience building end-to-end solutions using Node.js, Laravel (RESTful APIs), React.js/Next.js with TypeScript and Tailwind CSS, and Oracle/PostgreSQL/MySQL databases. I specialize in creating scalable architectures with Docker, managing deployments and server environments with cPanel, implementing efficient workflows with Git/GitHub, and delivering clean, maintainable code. With advanced English (C1) and agile experience, I excel at transforming complex requirements into high-performance applications.
 
 ## 🔧 Areas of Expertise  
 
 ### **Programming Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### **Backend Development:**  
@@ -17,6 +15,7 @@ I am a **Full Stack Developer** with 5+ years of experience building end-to-end 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
 ### **Frontend Development:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,13 +23,13 @@ I am a **Full Stack Developer** with 5+ years of experience building end-to-end 
 
 ### **Databases:**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### **APIs & DevOps:**
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+### **DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📜 Certifications  
 
