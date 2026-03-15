@@ -12,14 +12,15 @@ I am a **Full Stack Developer** with 5+ years of experience building end-to-end 
 
 ### **Backend Development:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### **Frontend Development:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Databases:**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -32,11 +33,7 @@ I am a **Full Stack Developer** with 5+ years of experience building end-to-end 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📜 Certifications  
-
-#### **Backend & DevOps**  
-[![Laravel API](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2185-laravel-api/diploma/detalle/)
-[![Docker Avanzado](https://img.shields.io/badge/Docker_Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11322-docker-avanzado/diploma/detalle/)
-[![PHP OOP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2034-php-poo/diploma/detalle/)  
+ 
 
 #### **Databases**  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://platzi.com/p/williamonfroy/curso/1480-postgresql/diploma/detalle/)
@@ -47,11 +44,13 @@ I am a **Full Stack Developer** with 5+ years of experience building end-to-end 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11886-tailwindcss/diploma/detalle/)
 [![Git/GitHub](https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://platzi.com/p/williamonfroy/curso/11059-gitgithub/diploma/detalle/)  
 
-#### **Testing & Performance**  
+#### **Testing & Performance**
 [![Laravel TDD](https://img.shields.io/badge/Laravel_TDD-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://platzi.com/p/williamonfroy/curso/2187-laravel-tdd/diploma/detalle/)  
 
 #### **English Proficiency**  
 [![EFSET C1 Advanced](https://img.shields.io/badge/EFSET_C1_English-009688?style=for-the-badge&logo=duolingo&logoColor=white)](https://cert.efset.org/yiK746)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slimesito&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📬 Contact Me
 
